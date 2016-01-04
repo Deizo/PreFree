@@ -1,22 +1,22 @@
 {
 	"radares": [{
 		"id": 1,
-		"dia": "02/01",
+		"dia": "04/01",
 		"horario1": "06:20 às 09:00",
-		"local1": "R. Dr. Antônio Tedesco, 722",
-		"velocidade1": "40 km/h",
+		"local1": "Av. Papa João Paulo II, 30 + 100m",
+		"velocidade1": "50 km/h",
 		"horario2": "09:15 às 12:20",
-		"local2": "Av. 25 de Janeiro, 179",
+		"local2": "R. Tomé de Souza, 228",
 		"velocidade2": "40 km/h",
 		"horario3": "13:20 às 15:00",
-		"local3": "R. Dr. Antônio Tedesco, 722",
+		"local3": "R. César Giacomini, 251 + 50m",
 		"velocidade3": "40 km/h",
 		"horario4": "15:15 às 19:20",
-		"local4": "Av. 25 de Janeiro, 217",
-		"velocidade4": "40 km/h"
+		"local4": "Av. Pe. Salústio R. Machado, 599",
+		"velocidade4": "50 km/h"
 	}, {
 		"id": 2,
-		"dia": "03/01",
+		"dia": "05/01",
 		"horario1": "06:20 às 09:00",
 		"local1": "R. Walter Moretto, 340",
 		"velocidade1": "40 km/h",
@@ -31,7 +31,7 @@
 		"velocidade4": "40 km/h"
 	}, {
 		"id": 3,
-		"dia": "04/01",
+		"dia": "06/01",
 		"horario1": "06:20 às 09:00",
 		"local1": "R. Marechal Dutra, 472",
 		"velocidade1": "40 km/h",
@@ -46,7 +46,7 @@
 		"velocidade4": "50 km/h"
 	}, {
 		"id": 4,
-		"dia": "05/01",
+		"dia": "07/01",
 		"horario1": "06:20 às 09:00",
 		"local1": "SUSPENSÃO DE EXPEDIENTE",
 		"velocidade1": "---",
@@ -61,7 +61,7 @@
 		"velocidade4": "---"
 	}, {
 		"id": 5,
-		"dia": "06/01",
+		"dia": "08/01",
 		"horario1": "06:20 às 09:00",
 		"local1": "FERIADO - FELIZ NATAL!",
 		"velocidade1": "---",
@@ -76,7 +76,7 @@
 		"velocidade4": "---"
 	}, {
 		"id": 6,
-		"dia": "26/12",
+		"dia": "09/01",
 		"horario1": "06:20 às 09:00",
 		"local1": "R. João Paccola, 1295",
 		"velocidade1": "40 km/h",
