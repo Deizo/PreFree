@@ -1,7 +1,7 @@
 {
     "radares": [{
         "id": 1,
-        "dia": "25/04",
+        "dia": "25/08",
         "horario1": "06:20 às 09:00",
         "local1": "Av. Papa João Paulo II, 30 + 100m",
         "velocidade1": "50 km/h",
@@ -16,7 +16,7 @@
         "velocidade4": "50 km/h"
     }, {
         "id": 2,
-        "dia": "26/04",
+        "dia": "26/08",
         "horario1": "06:20 às 09:00",
         "local1": "R. Piedade, 453",
         "velocidade1": "40 km/h",
@@ -31,7 +31,7 @@
         "velocidade4": "40 km/h"
     }, {
         "id": 3,
-        "dia": "27/04",
+        "dia": "27/08",
         "horario1": "06:20 às 09:00",
         "local1": "R. Luiz Paccola, 224",
         "velocidade1": "40 km/h",
@@ -46,7 +46,7 @@
         "velocidade4": "40 km/h"
     }, {
         "id": 4,
-        "dia": "28/04",
+        "dia": "28/08",
         "horario1": "06:20 às 09:00",
         "local1": "R. Dr. Antônio Tedesco, 722",
         "velocidade1": "40 km/h",
@@ -61,7 +61,7 @@
         "velocidade4": "40 km/h"
     }, {
         "id": 5,
-        "dia": "29/04",
+        "dia": "29/08",
         "horario1": "06:20 às 09:00",
         "local1": "FERIADO",
         "velocidade1": "---",
@@ -76,7 +76,7 @@
         "velocidade4": "---"
     }, {
         "id": 6,
-        "dia": "30/04",
+        "dia": "30/08",
         "horario1": "06:20 às 09:00",
         "local1": "Av. Adriano Anderson Foganholi, 580 + 300m",
         "velocidade1": "50 km/h",
