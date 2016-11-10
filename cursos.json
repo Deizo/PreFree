@@ -1,0 +1,34 @@
+{
+  "Cursos" : {
+    "001" : {
+      "001" : {
+        "Curso" : "Corel Draw",
+        "Tipo" : "Profissionalizante"
+      },
+      "002" : {
+        "Curso" : "Photoshop",
+        "Tipo" : "Profissionalizante"
+      },
+      "Local" : "Centro Municipal de Formação Profissional"
+    },
+    "002" : {
+      "001" : {
+        "Curso" : "Violão",
+        "Tipo" : "Música"
+      },
+      "002" : {
+        "Curso" : "Teclado",
+        "Tipo" : "Música"
+      },
+      "003" : {
+        "Curso" : "Ballet",
+        "Tipo" : "Dança"
+      },
+      "004" : {
+        "Curso" : "Pintura em Tela",
+        "Tipo" : "Artes Plásticas"
+      },
+      "Local" : "Casa da Cultura \"Profª. Maria Bove Coneglian\""
+    }
+  }
+}
