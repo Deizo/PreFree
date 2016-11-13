@@ -1,6 +1,7 @@
 {
   "Cursos" : {
-    "Local" : "Centro Municipal de Formação Profissional" {
+    "IdLocal" : "01" {
+		"Local" : "Centro Municipal de Formação Profissional",
       "IdCurso" : "001" {
         "Curso" : "Corel Draw",
         "Tipo" : "Profissionalizante"
@@ -9,7 +10,9 @@
         "Curso" : "Photoshop",
         "Tipo" : "Profissionalizante"
       },
-    "Local" : "Casa da Cultura \"Profª. Maria Bove Coneglian\"" {
+	  },
+    "IdLocal" : "02" {
+	"Local" : "Casa da Cultura \"Profª. Maria Bove Coneglian\"",
       "IdCurso" : "001" {
         "Curso" : "Violão",
         "Tipo" : "Música"
