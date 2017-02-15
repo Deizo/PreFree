@@ -1,9 +1,9 @@
 {
-    "radares": [{"ID":1,"ENDERECO":"Aos domingos não tem radar, mas continue respeitando os limites de velocidade!"},
-{"ID":2,"ENDERECO":"Av. Prefeito Jácomo Nicolau Paccola"},
-{"ID":3,"ENDERECO":"Av. Lázaro Brígido Dutra"},
-{"ID":4,"ENDERECO":"Av. 28 de Abril"},
-{"ID":5,"ENDERECO":"Rua Guaianazes"},
-{"ID":6,"ENDERECO":"Av. Jácomo Augusto Paccola"},
-{"ID":7,"ENDERECO":"Aos sábados não tem radar, mas continue respeitando os limites de velocidade!"}]
+    "radares": [{"ID":1,"DIA":"Domingo","ENDERECO":"Aos domingos não tem radar, mas continue respeitando os limites de velocidade!"},
+{"ID":2,"DIA":"Segunda-feira","ENDERECO":"Av. Prefeito Jácomo Nicolau Paccola"},
+{"ID":3,"DIA":"Terça-feira","ENDERECO":"Av. Lázaro Brígido Dutra"},
+{"ID":4,"DIA":"Quarta-feira","ENDERECO":"Av. 28 de Abril"},
+{"ID":5,"DIA":"Quinta-feira","ENDERECO":"Rua Guaianazes"},
+{"ID":6,"DIA":"Sexta-feira","ENDERECO":"Av. Jácomo Augusto Paccola"},
+{"ID":7,"DIA":"Sábado","ENDERECO":"Aos sábados não tem radar, mas continue respeitando os limites de velocidade!"}]
 }
